@@ -1,0 +1,6 @@
+# Ignorar archivos de logs de TensorBoard
+train/events.out.tfevents.*
+training_logs/
+
+# Ignorar checkpoints de modelo
+*.h5
